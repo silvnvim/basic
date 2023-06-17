@@ -1,9 +1,9 @@
 return {
     deps = {
-		"basic.opts",
+	"opts",
 
-        "basic.file_management",
+        "file_management",
 
-        "basic.parentheses",
+        "parentheses",
     }
 }
